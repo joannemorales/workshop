@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="main-container"><header>    </header>
+    <section class="hero"></section>
+    <div class="article-container">
+        <section class="features" id="features"></section>
+    </div>
+
+<section class="howItWorks" id="howItWorks"></section>
+<section class="pricing" id="pricing">
+    <div class="product-container"><div class="bar">Plan One</div>
+    <h2>Price</h2>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <a href="#" class="btn">Buy Now</a>
+</div>
+</section>
+</div>
+</body>
+</html>
